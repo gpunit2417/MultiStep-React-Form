@@ -8,6 +8,8 @@ This is a multistep react form with progress bar at the top indicating the form 
 
 ![WhatsApp Image 2024-03-30 at 22 00 01_02c353b4](https://github.com/gpunit2417/MultiStep-React-Form/assets/118668663/70c040eb-b371-401b-8627-7838fa636490)
 
+![WhatsApp Image 2024-03-30 at 22 01 59_6087d393](https://github.com/gpunit2417/MultiStep-React-Form/assets/118668663/c3cad351-d45f-4766-8d19-d0ba321e9a96)
+
 ## Available Scripts
 
 In the project directory, you can run:
