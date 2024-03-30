@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project
+
+This is a multistep react form with progress bar at the top indicating the form status.
+
+![WhatsApp Image 2024-03-30 at 22 00 01_02c353b4](https://github.com/gpunit2417/MultiStep-React-Form/assets/118668663/70c040eb-b371-401b-8627-7838fa636490)
+
 ## Available Scripts
 
 In the project directory, you can run:
